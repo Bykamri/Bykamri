@@ -47,7 +47,6 @@
 <p align="center">
           <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bykamri&theme=meta-dark&background=050F2C" alt="Bykamri's GitHub streak"/>
 </p>
-<br/>
 <p align="left">
 <a href="https://github.com/masbekkk">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bykamri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
