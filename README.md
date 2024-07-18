@@ -29,20 +29,6 @@
 <br />
 
 
-<!-- About Section -->
-
-# About me
-
-<p>
-
-✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
-❤️ &emsp; Love to writing code and learning new features<br/><br/>
-💬 &emsp; Ask me about anything [here](https://github.com/bykamri/bykamri/issues)
-
-</p>
-<br/>
-
-
 <p align="center">
 <a href="https://github.com/bykamri">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bykamri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
